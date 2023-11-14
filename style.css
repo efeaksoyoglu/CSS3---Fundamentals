@@ -1,0 +1,23 @@
+body {
+  background-color: rgba(128, 128, 128, 0.535);
+}
+
+h3 {
+  color: rgba(0, 255, 255, 0.55);
+}
+
+#p1 {
+  color: rgba(255, 192, 203, 0.483);
+}
+
+#p2 {
+  color: black;
+}
+
+#p3 {
+  color: rgba(0, 128, 0, 0.838);
+}
+
+.odd {
+  font-size: large;
+}

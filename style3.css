@@ -1,0 +1,20 @@
+h1 {
+  color: rgba(0, 0, 255, 0.729);
+  font-family: Verdana, Arial;
+  font-size: 28px;
+  font-weight: 500;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 17px;
+  font-style: italic;
+}
+
+#p2 {
+  font-family: "Lato", sans-serif;
+}
+
+#p3 {
+  font-family: "Open Sans", sans-serif;
+}
