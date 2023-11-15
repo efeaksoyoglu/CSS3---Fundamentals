@@ -1,0 +1,14 @@
+body {
+  border: 3px solid;
+  display: flow-root;
+}
+
+#ana {
+  float: left;
+  margin-right: 50px;
+}
+
+#anne {
+  float: right;
+  margin-left: 5px;
+}
