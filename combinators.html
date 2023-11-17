@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Combinators in CSS</title>
+    <link rel="stylesheet" href="comb.css" />
+  </head>
+  <body>
+    <div id="container">
+      <p>This is number 1</p>
+      <p>This is number 2</p>
+      <div>
+        <p>This is number 3</p>
+      </div>
+    </div>
+
+    <p>This is number 4</p>
+    <p>This is number 5</p>
+
+    <!-- comb.css
+#container > p {
+    background-color: red;
+  }
+
+  #container ~ p {
+    background-color: red;
+  }
+
+  #container + p {
+    background-color: red;
+  }
+-->
+  </body>
+</html>
